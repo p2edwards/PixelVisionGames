@@ -1,0 +1,16 @@
+# installer values
+
+$readme=These are all games created by Jesse Freeman for Pixel Vision 8. Feel free to use them as a point of reference on how to make PV8 games.
+
+$dir=Games
+
+# What path to open when back in Workspace Explorer
+$openPath=/Workspace/Games/
+
+#Files to install
+
+# Games
+/Games/JumpNShootManLD41/|/JumpNShootManLD41/
+/Games/ReaperBoyLD40/|/ReaperBoyLD40/
+/Games/ReaperBoyLD42/|/ReaperBoyLD42/
+/Games/Terminal/|/Terminal/
